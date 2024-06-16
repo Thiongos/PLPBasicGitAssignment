@@ -35,8 +35,8 @@ Task 3: Git Initialization
 Task 4: Connecting to GitHub
 
 6. Link Your Local Repository to GitHub:
-   - Copy the HTTPS or SSH URL of your GitHub repository. You can find this on the GitHub repository page.
-   - Link your local repository to the remote GitHub repository using (git remote add)
+   - Copy the HTTPS URL of your GitHub repository. You can find this on the GitHub repository page.
+   - Link your local repository to the remote GitHub repository using (git remote add https://github.com/Thiongos/PLPBasicGitAssignment.git)
      
 Task 5: Making Changes
 
@@ -57,5 +57,5 @@ Task 6: Pushing to GitHub
  Task 7: Verification
 
 10. Verify on GitHub:
-    - Open your web browser and navigate to your GitHub repository (`https://github.com/yourusername/PLPBasicGitAssignment`).
+    - Open your web browser and navigate to your GitHub repository (`https://github.com/Thiongos/PLPBasicGitAssignment.git`).
     - Verify that the `hello.txt` file with the content "Hello, Git!" and your commit message are visible in the repository.
